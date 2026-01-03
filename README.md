@@ -8,9 +8,13 @@ Satellite Laser Ranging (SLR) is the process of using lasers to illuminate satel
 The core features of this program are as follows:
 
 •	Uses real, orbital elements used to predict satellite orbits.
+
 •	Employs the python Skyfield library with millimeter-level geographic and orbital accuracy.
+
 •	Laser characteristics used in real world SLR tracking.
+
 •	Models natural photon behavior
+
 •	Displays four live panel performance indicators used in current SLR station operations.
   1.	Top (Laser Ranging Photon Returns): Two-way range vs time (km) with least squares prediction fit (red line).
   2.	Middle (Live Return Pulse): Live 1-second histogram of TOF residuals (nanoseconds) 
