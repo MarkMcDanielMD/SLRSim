@@ -6,6 +6,7 @@ Purpose
 Satellite Laser Ranging (SLR) is the process of using lasers to illuminate satellites in orbit and measure the reflected laser light.  The data gathered by this process informs scientists of the physical characteristics and behaviors of the Earth and the satellites themselves.  This program is a simulation of a Satellite Laser Ranging (SLR) station’s operation.  The code accomplishes  the simulation of the process of laser ranging and of tracking a real-world satellite from an actual SLR station.  The satellite tracked is LAGEOS-1 and the station is NASA’s Goddard Geophysical and Astronomical Observatory (GGAO) located in Prince Georges County, Maryland.  The program was written to accomplish two goals:  First, to learn orbital mechanics, math, and science needed to understand and overcome the challenges to building and maintaining a working SLR system.  Second, to gain understanding of how conditions such as lighting, terrestrial disruptions, atmospheric, meteorological, and orbital perturbations affect the performance of SLR stations.  
 
 The core features of this program are as follows:
+
 •	Uses real, orbital elements used to predict satellite orbits.
 •	Employs the python Skyfield library with millimeter-level geographic and orbital accuracy.
 •	Laser characteristics used in real world SLR tracking.
