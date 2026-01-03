@@ -11,10 +11,10 @@ The core features of this program are as follows:
 •	Laser characteristics used in real world SLR tracking.
 •	Models natural photon behavior
 •	Displays four live panel performance indicators used in current SLR station operations.
-1.	Top (Laser Ranging Photon Returns): Two-way range vs time (km) with least squares prediction fit (red line).
-2.	Middle (Live Return Pulse): Live 1-second histogram of TOF residuals (nanoseconds) 
-3.	Bottom (Cumulative Return Pulse Distribution): Gaussian fit 
-4.	Text: Real-time status (return rate, pulses fired, photons detected)
+  1.	Top (Laser Ranging Photon Returns): Two-way range vs time (km) with least squares prediction fit (red line).
+  2.	Middle (Live Return Pulse): Live 1-second histogram of TOF residuals (nanoseconds) 
+  3.	Bottom (Cumulative Return Pulse Distribution): Gaussian fit 
+  4.	Text: Real-time status (return rate, pulses fired, photons detected)
 
 Visual Elements Top Graph
 •	Color graded photon return plots: Gray=Missed, Blue=Single, Green=Multi
