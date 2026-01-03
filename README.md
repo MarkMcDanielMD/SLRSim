@@ -29,6 +29,7 @@ Visual Elements Top Graph
 
 •	Laser fire indicator above top graph
 
+
 Scientific and Educational Value of the Program
 
 •	Method SLR uses to achieve centimeter to millimeter orbital predictions and tracking.
