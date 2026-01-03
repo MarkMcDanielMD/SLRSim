@@ -7,13 +7,13 @@ Satellite Laser Ranging (SLR) is the process of using lasers to illuminate satel
 
 The core features of this program are as follows:
 
-•	Uses real, orbital elements used to predict satellite orbits.
+  •	Uses real, orbital elements used to predict satellite orbits.
 
-•	Employs the python Skyfield library with millimeter-level geographic and orbital accuracy.
+  •	Employs the python Skyfield library with millimeter-level geographic and orbital accuracy.
 
-•	Laser characteristics used in real world SLR tracking.
+  •	Laser characteristics used in real world SLR tracking.
 
-•	Models natural photon behavior
+  •	Models natural photon behavior
 
 •	Displays four live panel performance indicators used in current SLR station operations.
   1.	Top (Laser Ranging Photon Returns): Two-way range vs time (km) with least squares prediction fit (red line).
@@ -23,21 +23,21 @@ The core features of this program are as follows:
 
 Visual Elements Top Graph
 
-•	Color graded photon return plots: Gray=Missed, Blue=Single, Green=Multi
+  •	Color graded photon return plots: Gray=Missed, Blue=Single, Green=Multi
 
-•	Prediction model: Red straight line with linear prediction of satellite motion
+  •	Prediction model: Red straight line with linear prediction of satellite motion
 
-•	Laser fire indicator above top graph
+  •	Laser fire indicator above top graph
 
 
 Scientific and Educational Value of the Program
 
-•	Method SLR uses to achieve centimeter to millimeter orbital predictions and tracking.
+  •	Method SLR uses to achieve centimeter to millimeter orbital predictions and tracking.
 
-•	Effects of environmental constraining conditions (light, weather, orbital perturbations).
+  •	Effects of environmental constraining conditions (light, weather, orbital perturbations).
 
-•	Understanding the nature of collecting and measuring photons using quantum noise detectors.
+  •	Understanding the nature of collecting and measuring photons using quantum noise detectors.
 
-•	Method of fitting models to short orbital passes of satellites.
+  •	Method of fitting models to short orbital passes of satellites.
 
 Bottom Line This is not a toy — it is a physically correct, visually authentic recreation of what happens when a billion-dollar laser system points at a golf-ball-sized satellite 6,000 km away, firing 10 times per second, and counts individual photons at the quantum/photon level returning from space.
