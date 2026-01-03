@@ -22,13 +22,21 @@ The core features of this program are as follows:
   4.	Text: Real-time status (return rate, pulses fired, photons detected)
 
 Visual Elements Top Graph
+
 •	Color graded photon return plots: Gray=Missed, Blue=Single, Green=Multi
+
 •	Prediction model: Red straight line with linear prediction of satellite motion
+
 •	Laser fire indicator above top graph
 
 Scientific and Educational Value of the Program
+
 •	Method SLR uses to achieve centimeter to millimeter orbital predictions and tracking.
+
 •	Effects of environmental constraining conditions (light, weather, orbital perturbations).
+
 •	Understanding the nature of collecting and measuring photons using quantum noise detectors.
+
 •	Method of fitting models to short orbital passes of satellites.
+
 Bottom Line This is not a toy — it is a physically correct, visually authentic recreation of what happens when a billion-dollar laser system points at a golf-ball-sized satellite 6,000 km away, firing 10 times per second, and counts individual photons at the quantum/photon level returning from space.
